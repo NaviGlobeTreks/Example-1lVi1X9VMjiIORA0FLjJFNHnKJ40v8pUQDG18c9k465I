@@ -59,7 +59,7 @@
                 "img1": "https://drive.google.com/uc?export=view&id=1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6 ", 
                 "img2": "https://drive.google.com/uc?export=view&id=1z6xsXjqrIIaJSN0gCSKcXrDfghRFTBC6 "
             }, 
-            "main": "https://20dqe434dcuq54vwy1wai79h-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Dinosaur-Ridge-Morrison-Colorado-James-St.-John-Flickr-OutThere-Colorado-450x300.jpg", 
+            "main": "https://www.outtherecolorado.com/wp-content/uploads/2000/08/AUG-fall2-1920-800x533.jpg", 
             "pagenumber": "6", 
             "text": "360 Img from Google drive", 
             "title": "360 Photo from google drive"
