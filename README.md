@@ -59,7 +59,7 @@
                 "img1": "https://drive.google.com/uc?export=view&id=1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6 ", 
                 "img2": "https://drive.google.com/uc?export=view&id=1z6xsXjqrIIaJSN0gCSKcXrDfghRFTBC6 "
             }, 
-            "main": "360:https://drive.google.com/file/d/1z6xsXjqrIIaJSN0gCSKcXrDfghRFTBC6/view?usp=sharing", 
+            "main": "https://goo.gl/images/gksF3o", 
             "pagenumber": "6", 
             "text": "360 Img from Google drive", 
             "title": "360 Photo from google drive"
