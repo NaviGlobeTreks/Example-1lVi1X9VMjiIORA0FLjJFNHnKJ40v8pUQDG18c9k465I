@@ -64,7 +64,7 @@
             "text": "360 Img from Google drive", 
             "title": "360 Photo from google drive"
         }, 
-        "auther": "Caleb Neel", 
+        "auther": "Not Claeb Neel", 
         "description": "This is an Example NaviGlobe Treks Project", 
         "grade": "K-2", 
         "id": "1lVi1X9VMjiIORA0FLjJFNHnKJ40v8pUQDG18c9k465I", 
